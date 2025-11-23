@@ -1,0 +1,12 @@
+{
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "email_address": "youremail@gmail.com",
+    "password": "YOUR_16_CHAR_APP_PASSWORD"
+  },
+  "telegram": {
+    "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "chat_id": "YOUR_CHAT_ID"
+  }
+}

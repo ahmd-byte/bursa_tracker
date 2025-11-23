@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# CSV logs
+history.csv
+
+# IDE / VS Code
+.vscode/
+
+# Sensitive config
+config.json
