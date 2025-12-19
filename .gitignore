@@ -19,3 +19,4 @@ logs/
 
 # Sensitive config
 .env
+config.json
