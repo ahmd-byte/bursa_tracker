@@ -16,3 +16,4 @@ history.csv
 
 # Sensitive config
 config.json
+.env
