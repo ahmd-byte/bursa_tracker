@@ -1,6 +1,6 @@
 # Python virtual environments
-.venv/
-venv/
+backend/.venv/
+backend/venv/
 
 # Python cache
 __pycache__/
@@ -8,15 +8,23 @@ __pycache__/
 *.pyo
 *.pyd
 
-# CSV logs
-history.csv
+# Backend data files
+backend/data/history.csv
+backend/data/last_alerts.json
 
 # Log files
-logs/
+backend/logs/
 
 # IDE / VS Code
 .vscode/
 
 # Sensitive config
-.env
+backend/.env
 config.json
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env.local
+frontend/.env.production
