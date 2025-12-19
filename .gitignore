@@ -11,6 +11,9 @@ __pycache__/
 # CSV logs
 history.csv
 
+# Log files
+logs/
+
 # IDE / VS Code
 .vscode/
 
